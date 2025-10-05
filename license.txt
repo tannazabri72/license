@@ -1,4 +1,1 @@
-license key = ABC0123
-status = active
-expire_date = 2025-12-31
-000
+2025-12-01
