@@ -1,3 +1,2 @@
 2025-12-25
-cngformoff
-.
+CNGFORMOFF
